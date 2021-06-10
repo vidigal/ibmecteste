@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    color: aliceblue;
+    font-family: Algerian;
+}
+
+p {
+    color: green;
+}
+
+div {
+    background-color: brown;
+    color: black;
+    font-family: Arial;
+    text-align: justify;
+}
+
+#div-verde {
+    background-color: darkolivegreen;
+    color: navy;
+}
+
+.destaque {
+    color: chartreuse;
+}
