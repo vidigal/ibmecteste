@@ -29,3 +29,7 @@ div {
 .destaque {
     color: chartreuse;
 }
+
+#div-video {
+    text-align: center;
+}
