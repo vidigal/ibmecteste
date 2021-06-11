@@ -4,6 +4,12 @@ body {
     font-family: Algerian;
 }
 
+h1 {
+    font-family: "Blackadder ITC";
+    font-size: xxx-large;
+    color: darkgoldenrod;
+}
+
 p {
     color: green;
 }
